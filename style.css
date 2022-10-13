@@ -30,3 +30,19 @@
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.hero-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-content p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
